@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jahid Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ashik Islam</h1>
 <h3 align="center">A passionate Full-stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid0123&label=Profile%20views&color=0e75b6&style=flat" alt="jahid0123" /> </p>
 
-- 🔭 I’m currently working at [Softcafe IT Solution Ltd.](https://softcafesolution.com)
+- 🔭 I’m currently working at [ Lead Skill IT](https://www.leadskillit.com)
 
-- 🌱 I’m currently learning **Java, Spring, Spring Boot, Oracle & Angular**
+- 🌱 I’m currently learning **Node.js, Express.js, React.js, Next.js, MongoDB, **
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, Oracle Database, PostgreSQL, UML, Git, Java, Angular, Flutter.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Oracle Database, PostgreSQL, Git,  Angular. **
 
 - 📫 How to reach me **ajahid97@gmail.com**
 
