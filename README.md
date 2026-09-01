@@ -10,7 +10,7 @@
 
 * 🌱 I’m currently learning **Node.js, Express.js, React.js, Next.js, PostgreSQL & Prisma**
 
-* 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Angular, Java, Spring Boot, Oracle, PostgreSQL, MongoDB & Git**
+* 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Angular, PostgreSQL, MongoDB & Git**
 
 * 💼 Experienced in building **responsive web applications, REST APIs, authentication & reusable UI components**
 
