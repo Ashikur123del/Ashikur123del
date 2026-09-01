@@ -1,184 +1,57 @@
 <h1 align="center">Hi 👋, I'm Ashik Islam</h1>
 
-<h3 align="center"> Front-End Web Developer | Full-Stack Developer </h3>
+<h3 align="center">A passionate Full-Stack Developer from Bangladesh 🇧🇩</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ashikur123del&label=Profile%20views&color=0e75b6&style=flat" alt="Ashikur123del" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashikur123del&label=Profile%20views&color=0e75b6&style=flat" alt="Ashikur123del" /> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/asik-khan-b82390249/" target="_blank">LinkedIn</a> • <a href="https://github.com/Ashikur123del" target="_blank">GitHub</a> • <a href="mailto:asikk2925@gmail.com">Email</a> </p>
+🔭 I’m currently working at Lead Skill IT
+🌱 I’m currently learning Node.js, Express.js, React.js, Next.js, PostgreSQL & Prisma
+💬 Ask me about HTML, CSS, JavaScript, TypeScript, Angular, Java, Spring Boot, Oracle, PostgreSQL, MongoDB & Git
+💼 Experienced in building responsive web applications, REST APIs, authentication & reusable UI components
+📫 How to reach me asikk2925@gmail.com
 
-👨‍💻 About Me
+<h3 align="left">Connect with me:</h3>
 
-I'm a Front-End Web Developer with professional experience building scalable and responsive web applications using React.js, Angular, Next.js, and TypeScript.
+<p align="left"> <a href="https://www.linkedin.com/in/asik-khan-b82390249/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a>
 
-I enjoy building reusable UI components, integrating REST APIs, implementing authentication and role-based access control, and optimizing application performance.
+<a href="https://www.facebook.com/asik.kan.560" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /> </a>
 
-Currently, I'm expanding my expertise toward full-stack development with Node.js, Express.js, PostgreSQL, Prisma, and modern JavaScript technologies.
+<a href="mailto:asikk2925@gmail.com"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40" /> </a> </p>
 
-🔭 Currently working at Lead Skill Technology Ltd
-🌱 Currently learning Node.js, Express.js, React.js, Next.js, PostgreSQL & Prisma
-💻 Experienced with Angular, React.js, TypeScript & JavaScript
-🔐 Interested in REST APIs, Authentication, Authorization & Scalable Applications
-📍 Based in Dhaka, Bangladesh
-📫 Email: asikk2925@gmail.com
-🛠️ Technical Skills
-Frontend
-HTML5
-CSS3
-JavaScript (ES6+)
-TypeScript
-React.js
-Next.js
-Angular
-Tailwind CSS
-Bootstrap
-Sass
-State Management & Frontend Tools
-Zustand
-React Router
-REST API Integration
-Responsive Design
-Cross-Browser Compatibility
-Performance Optimization
-Backend & Database
-Node.js
-Express.js
-MongoDB
-PostgreSQL
-Oracle Database
-REST API
-Java
-Spring Boot
-Authentication & Security
-JWT
-Better Auth
-Protected Routes
-Role-Based Access Control
-Tools
-Git
-GitHub
-Vercel
-💼 Professional Experience
-Front-End Developer — Lead Skill Technology Ltd
+<h3 align="left">Languages and Tools:</h3>
 
-Savar, Dhaka | Jan 2026 – Present
+<p align="left"> <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a>
 
-Designed and developed responsive, user-friendly interfaces using React.js, Angular, HTML, CSS, Tailwind CSS, and Bootstrap.
-Translated UI/UX designs into clean and reusable Angular components.
-Improved layout structure, visual hierarchy, and overall user experience.
-Ensured cross-browser compatibility and mobile responsiveness.
-Integrated REST APIs and worked closely with backend developers.
-Developed reusable components to maintain consistency across applications.
-Junior Frontend Developer — Tutorian-bd
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
 
-Savar, Dhaka | Jul 2025 – Dec 2025
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> </a>
 
-Developed and maintained a responsive Learning Management System (LMS) for online education and exam preparation.
-Built reusable UI components for course enrollment, student dashboards, and learning modules.
-Integrated REST APIs for courses, users, authentication, and dynamic content.
-Optimized application performance across desktop, tablet, and mobile devices.
-Collaborated with UI/UX designers and backend developers to deliver scalable features.
-🚀 Featured Projects
-🎓 Mentorship ERP
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
 
-Tech Stack: Angular, TypeScript, REST API, Java Backend
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> </a>
 
-Built the complete frontend of a Mentorship ERP platform using Angular and TypeScript.
-Developed modules for student enrollment, attendance, teacher management, and exam administration.
-Integrated complex REST APIs from the Java backend.
-Created reusable and responsive UI components.
-Implemented interfaces for multiple user roles including Admins, Teachers, Students, and Parents.
-Enabled live reporting and reduced manual paperwork through digital workflows.
-🏟️ Booking Management System
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
 
-Tech Stack: Next.js, Node.js, Express.js, MongoDB, JWT, Better Auth, Tailwind CSS
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
 
-🔗 Live Project
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
 
-Developed a full-stack booking management platform.
-Implemented secure authentication and role-based access control.
-Built Login, Registration, Protected Routes, and CRUD functionality.
-Developed RESTful APIs using Node.js and Express.js.
-Integrated MongoDB for scalable data management.
-Designed responsive interfaces using Tailwind CSS.
-🛒 Multi-Vendor Grocery E-Commerce Platform
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
 
-Tech Stack: React.js, Zustand, Sass, React Router, Vercel
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 
-🔗 Live Project
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
 
-Built an interactive multi-vendor grocery e-commerce frontend.
-Implemented global state management using Zustand.
-Developed separate dashboards for:
-Super Admin
-Vendor
-Customer
-Implemented product filtering and shopping cart functionality.
-Built responsive layouts for desktop, tablet, and mobile.
-Deployed the application using Vercel.
-📚 Tutorian — Learning Management System
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
 
-Tech Stack: HTML5, CSS3, Bootstrap, JavaScript
-Backend: Laravel REST API
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
 
-🔗 Live Website
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>
 
-Developed and maintained frontend interfaces for an online education and exam preparation platform.
-Built responsive pages using HTML, CSS, Bootstrap, and JavaScript.
-Integrated backend REST APIs for dynamic content.
-Worked on course, learning, and student-focused interfaces.
-🎓 Education
-Higher Secondary Certificate (HSC) — Humanities
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
 
-Khujzipur Mozammel Haque Degree College
-Natore, Bangladesh | 2019 – 2021
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> </p>
 
-📜 Certificates
-Complete Web Development Course
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashikur123del&show_icons=true&locale=en&layout=compact" alt="Ashikur123del" /> </p>
 
-Programming Hero — 6-Month Intensive Training | 2025
-
-Full-stack development with Node.js, Express.js, React.js, Next.js, and Tailwind CSS
-Built and deployed dynamic REST APIs and full-stack applications
-Practical experience with modern frontend and backend development
-Higher Secondary Certificate (HSC)
-
-Khujzipur Mozammel Haque Degree College
-Natore, Bangladesh | 2019 – 2021
-
-🌐 Languages
-🇧🇩 Bangla — Native
-🇬🇧 English — Professional Working Proficiency
-📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashikur123del&show_icons=true&locale=en" alt="Ashik Islam's GitHub Stats" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashikur123del&show_icons=true&locale=en&layout=compact" alt="Ashik Islam's Top Languages" /> </p>
-
-🔗 Connect With Me
-
-<p align="left"> <a href="https://www.linkedin.com/in/asik-khan-b82390249/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a>
-
-<a href="https://www.facebook.com/asik.kan.560" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/> </a>
-
-<a href="https://github.com/Ashikur123del" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/> </a>
-
-<a href="mailto:asikk2925@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40"/> </a> </p>
-
-🚀 Current Learning Path
-JavaScript
-    ↓
-TypeScript
-    ↓
-React.js → Next.js
-    ↓
-Node.js → Express.js
-    ↓
-PostgreSQL → Prisma
-    ↓
-REST API → Authentication → Authorization
-    ↓
-System Design
-    ↓
-Scalable Full-Stack Applications
-
-<p align="center"> <b>💡 Building, Learning & Improving Every Day 🚀</b>
+<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashikur123del&show_icons=true&locale=en" alt="Ashikur123del" /> </p>
