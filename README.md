@@ -77,12 +77,6 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashikur123del&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashikur123del&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashikur123del&show_icons=true&locale=en" height="170" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashikur123del&layout=compact&show_icons=true&locale=en" height="170" alt="Top Languages" /> </p>
 
 <h3 align="center">💻 Code • Build • Learn • Repeat 🚀</h3>
