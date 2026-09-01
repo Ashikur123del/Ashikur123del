@@ -65,9 +65,6 @@
   <a href="https://www.facebook.com/asik.kan.560" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" height="35" alt="Facebook"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:asikk2925@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="35" height="35" alt="Email"/>
-  </a>&nbsp;&nbsp;
   <a href="https://github.com/Ashikur123del" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35" height="35" alt="GitHub"/>
   </a>
