@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./Ashik Khan Developer Portfolio Banner.png"
+    src="banner_ashik.png"
     alt="Ashik Khan Developer Banner"
     width="100%"
   />
