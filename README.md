@@ -1,4 +1,6 @@
-<img src="banner.jpg" alt="Ashik Khan Banner" width="100%" />
+<p align="center">
+  <img src="banner.jpg" alt="Ashik Khan Banner" width="100%" style="border-radius: 8px;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Md. Ashik Khan</h1>
 
