@@ -1,4 +1,4 @@
-<img src="banner_github.jpg" alt="Md. Ashik Khan — Junior MERN Stack Developer Banner" width="100%" />
+<img src="banner_github.jpg" alt="Ashik Khan Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Md. Ashik Khan</h1>
 
