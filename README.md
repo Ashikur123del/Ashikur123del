@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="Ashik Khan Developer Portfolio Banner.png" alt="Ashik Khan Banner" width="100%" style="border-radius: 8px;" />
+  <img
+    src="./Ashik Khan Developer Portfolio Banner.png"
+    alt="Ashik Khan Developer Banner"
+    width="100%"
+  />
 </p>
-
 <h1 align="center">Hi 👋, I'm Md. Ashik Khan</h1>
 
 <h3 align="center">🚀 Junior MERN Stack Developer | MongoDB • Express.js • React.js • Node.js | Next.js • TypeScript</h3>
